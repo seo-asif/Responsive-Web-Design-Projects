@@ -1,0 +1,44 @@
+* {
+  background-color: #3a3240;
+}
+a {
+  color: #92869c;
+}
+a:hover {
+  background-color: #92869c;
+  color: #3a3240;
+}
+#navbar {
+  border-style: solid;
+  border-width: 5px;
+  border-color: #92869c;
+  height: 100%;
+  top: -5px;
+  left: -5px;
+  padding: 5px;
+  text-align: center;
+  color: #92869c
+}
+@media (min-width: 480px) {
+  #navbar {
+    position: fixed;
+  }
+}
+main {
+  margin-left: 220px;
+  color: #92869c
+}
+header {
+  font-size: 20pt;
+}
+code {
+  background-color: #92869c;
+  border-style: dashed;
+  border-width: 2px;
+  border-color: #92869c;
+  padding: 5px;
+  color: black;
+}
+footer {
+  text-align: center;
+}
