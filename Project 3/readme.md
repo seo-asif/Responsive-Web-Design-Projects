@@ -11,6 +11,7 @@ Each section element with the class of main-section should also have an id that 
 The .main-section elements should contain at least ten p elements total (not each)
 The .main-section elements should contain at least five code elements total (not each)
 The .main-section elements should contain at least five li items total (not each)
+
 You can see a nav element with a corresponding id="navbar"
 The navbar element should contain one header element which contains text that describes the topic of the technical documentation
 Additionally, the navbar should contain link (a) elements with the class of nav-link. There should be one for every element with the class main-section
