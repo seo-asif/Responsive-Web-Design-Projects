@@ -8,6 +8,7 @@ main {
 }
 input {
   background-color: #92869c;
+  
 }
 a:not(.nav-link) {
   color: white;
